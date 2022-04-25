@@ -63,7 +63,7 @@
     "js-data": ">= 3.0.0"
   },
   "dependencies": {
-    "firebase": "^6.6.2",
+    "firebase": ">=6.6.2",
     "js-data": "^3.0.8",
     "js-data-adapter": "1.0.0"
   },
