@@ -59,11 +59,11 @@
     "release": "npm test && npm run doc && repo-tools changelog && repo-tools authors"
   },
   "peerDependencies": {
-    "firebase": ">= 3.6.3",
+    "firebase": ">= 7.24.0",
     "js-data": ">= 3.0.0"
   },
   "dependencies": {
-    "firebase": ">=6.6.2",
+    "firebase": ">=7.24.0",
     "js-data": "^3.0.8",
     "js-data-adapter": "1.0.0"
   },
